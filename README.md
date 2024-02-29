@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 I'm Robee D. -->
 
-![Banner](https://github.com/robeeds/robeeds/assets/71895118/a48dac34-eff5-4f22-81c2-f9a34235d62a)
+![LinkedInBanner](https://github.com/robeeds/robeeds/assets/71895118/939aba81-f0f5-41a0-a654-c0e716af39a3)
 
 <!--
 **robeeds/robeeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
