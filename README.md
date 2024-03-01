@@ -1,8 +1,6 @@
-<!-- ### Hi there 👋 I'm Robee D. -->
-
 ![LinkedInBanner](https://github.com/robeeds/robeeds/assets/71895118/939aba81-f0f5-41a0-a654-c0e716af39a3)
 
-# Hello, I'm Robee D! 👋
+# Hello, I'm Robee D.! 👋
 
 I'm a student majoring in Management Information Systems at California State University, Long Beach (CSULB), with a keen interest in technology and its applications in business. Currently, I'm honing my skills in both management and technology, striving to bridge the gap between business needs and technological solutions.
 
