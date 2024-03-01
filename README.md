@@ -11,8 +11,20 @@ I'm a student majoring in Management Information Systems at California State Uni
 - 🎓 Studying Management Information Systems at CSULB
 - 💼 Freelance Front-End Web Developer
 - 🌐 Passionate about leveraging technology to streamline business processes and enhance user experiences
-- 💻 Proficient in HTML, CSS, JavaScript, and frameworks like React.js
+- 💻 Proficient in HTML, CSS, JavaScript, and frameworks like React.js, TailwindCSS, and more
 - 📊 Interested in data analysis and visualization
+
+## Tech Stack
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="32" />
+</div>
 
 ## What I'm Working On
 
