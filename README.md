@@ -15,6 +15,7 @@ I'm a student majoring in Management Information Systems at California State Uni
 ## Tech Stack
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" height="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" height="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="32" />
