@@ -7,7 +7,7 @@ I'm a student majoring in Management Information Systems at California State Uni
 ## About Me
 
 - 🎓 Studying Management Information Systems at CSULB
-- 💼 Freelance Front-End Web Developer
+- 💼 Aspiring Full-Stack Web Developer
 - 🌐 Passionate about leveraging technology to streamline business processes and enhance user experiences
 - 💻 Proficient in HTML, CSS, JavaScript, and frameworks like React.js, TailwindCSS, and more
 - 📊 Interested in data analysis and visualization
