@@ -38,12 +38,4 @@ I'm a student majoring in Management Information Systems at California State Uni
 
 - 📫 Feel free to reach out to me via [Personal Website](https://www.robeeds.tech) or [LinkedIn](https://www.linkedin.com/in/robeeds).
 
-## My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robeeds&theme=react&hide_border=true" width="35.4%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=robeeds&theme=react&show_icons=true&hide_border=true&count_private=true" width="33.4%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeeds&theme=react&show_icons=true&hide_border=true&layout=compact" width="30%" />
-</p>
-
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects together. 😊
