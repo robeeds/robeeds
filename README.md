@@ -1,4 +1,4 @@
-![LinkedInBanner](https://github.com/robeeds/robeeds/assets/71895118/939aba81-f0f5-41a0-a654-c0e716af39a3)
+![LinkedInCover](https://github.com/user-attachments/assets/2608f241-d72b-4b00-898b-de0d5f0b58d7)
 
 # Hello, I'm RobeeDS! 👋
 
