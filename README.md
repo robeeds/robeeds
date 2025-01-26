@@ -30,7 +30,7 @@ I'm a student majoring in Management Information Systems at California State Uni
 
 ## What I'm Working On
 
-- 🔭 Currently, I'm working on improving my skills in PHP and SQL.
+- 🔭 Currently, I'm working on improving my skills in SQL.
 - 🌱 I’m continuously learning and exploring new technologies to stay updated with the industry trends.
 - 👯 I’m looking to collaborate on open-source projects related to web development or data management.
 
