@@ -10,7 +10,7 @@ I'm a student majoring in Management Information Systems at California State Uni
 - 💼 Aspiring Full-Stack Web Developer
 - 🌐 Passionate about leveraging technology to streamline business processes and enhance user experiences
 - 💻 Proficient in HTML, CSS, JavaScript, and frameworks like React.js, TailwindCSS, and more
-- 📊 Interested in data analysis and visualization
+- 📊 Interested in data analysis and cybersecurity
 
 ## Tech Stack
 
