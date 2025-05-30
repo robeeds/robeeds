@@ -28,6 +28,7 @@ I'm a student majoring in Management Information Systems at California State Uni
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="vercel" height="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" alt="appwrite" height="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="sqldeveloper" height="32" />
 </div>
 
 ## What I'm Working On
