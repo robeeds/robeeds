@@ -1,4 +1,5 @@
-![LinkedInCover](https://github.com/user-attachments/assets/2608f241-d72b-4b00-898b-de0d5f0b58d7)
+![LinkedInBanner](https://github.com/user-attachments/assets/60602db0-789b-4e09-b1f3-365b709a6400)
+
 
 # Hello, I'm RobeeDS! 👋
 
