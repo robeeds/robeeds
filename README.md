@@ -8,9 +8,9 @@ I'm a student majoring in Management Information Systems at California State Uni
 ## About Me
 
 - 🎓 Studying Management Information Systems at CSULB
-- 💼 Aspiring Full-Stack Web Developer
+- 💼 Aspiring Security Operations Center (SOC) Analyst
 - 🌐 Passionate about leveraging technology to streamline business processes and enhance user experiences
-- 💻 Proficient in HTML, CSS, JavaScript, and frameworks like React.js, TailwindCSS, and more
+- 💻 Proficient in Python, JavaScript, and frameworks like React.js, TailwindCSS, and more
 - 📊 Interested in data analysis and cybersecurity
 
 ## Tech Stack
@@ -33,12 +33,12 @@ I'm a student majoring in Management Information Systems at California State Uni
 
 ## What I'm Working On
 
-- 🔭 Currently, I'm working on improving my skills in SQL.
+- 🔭 Currently, I'm working on improving my skills in penetration testing.
 - 🌱 I’m continuously learning and exploring new technologies to stay updated with the industry trends.
-- 👯 I’m looking to collaborate on open-source projects related to web development or data management.
+- 👯 I’m looking to collaborate on open-source projects related to web development, data management, or cybersecurity. 
 
 ## Get in Touch
 
-- 📫 Feel free to reach out to me via [Personal Website](https://www.robeeds.dev) or [LinkedIn](https://www.linkedin.com/in/robeeds).
+- 📫 Feel free to reach out to me via [Personal Website](https://robeeds.dev) or [LinkedIn](https://www.linkedin.com/in/robeeds).
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects together. 😊
