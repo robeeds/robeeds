@@ -39,6 +39,6 @@ I'm a student majoring in Management Information Systems at California State Uni
 
 ## Get in Touch
 
-- 📫 Feel free to reach out to me via [Personal Website](https://robeeds.dev) or [LinkedIn](https://www.linkedin.com/in/robeeds).
+- 📫 Feel free to reach out to me via [Personal Website](https://www.robeeds.dev) or [LinkedIn](https://www.linkedin.com/in/robeeds).
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects together. 😊
