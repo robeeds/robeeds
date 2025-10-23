@@ -1,4 +1,5 @@
-![LinkedInBanner](https://github.com/user-attachments/assets/60602db0-789b-4e09-b1f3-365b709a6400)
+<img width="1400" height="350" alt="banner_robeeds" src="https://github.com/user-attachments/assets/bac29e27-761b-4a6e-ad7e-12198582befe" />
+
 
 
 # Hello, I'm RobeeDS! 👋
