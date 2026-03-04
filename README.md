@@ -4,11 +4,11 @@
 
 # Hello, I'm RobeeDS! 👋
 
-I'm a student majoring in Management Information Systems at California State University, Long Beach (CSULB), with a keen interest in technology and its applications in business. Currently, I'm honing my skills in both management and technology, striving to bridge the gap between business needs and technological solutions.
+I'm a recent graduate in Management Information Systems from California State University, Long Beach (CSULB), with a keen interest in technology and its applications in business. Currently, I'm honing my skills in both management and technology, striving to bridge the gap between business needs and technological solutions.
 
 ## About Me
 
-- 🎓 Studying Management Information Systems at CSULB
+- 🎓 Recently graduated with a Bachelors of Science in Management Information Systems at CSULB
 - 💼 Aspiring Security Operations Center (SOC) Analyst
 - 🌐 Passionate about leveraging technology to streamline business processes and enhance user experiences
 - 💻 Proficient in Python, JavaScript, and frameworks like React.js, TailwindCSS, and more
